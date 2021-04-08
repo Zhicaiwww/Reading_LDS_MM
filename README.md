@@ -9,6 +9,7 @@ This is a list of papers shared in LDS multi_media Group
 
 ## <h2 id="1">Survey Paper</h2>
 - [Generative Adversarial Networks for Image and Video Synthesis: Algorithms and Applications](http://arxiv.org/abs/2008.02793)(2020)
+
 ## <h2 id="2">Model and Architecture</h2>
 - [V4D:4D convolutional neural networks for video-level representation learning](http://arxiv.org/abs/2002.07442)(2020)
 - [Non-local Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)(2018CVPR)
@@ -19,12 +20,13 @@ This is a list of papers shared in LDS multi_media Group
 - [RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition](https://rubiksnet.stanford.edu/)(2020ECCV)
 - [Cbam: Convolutional block attention module](https://openaccess.thecvf.com/content_ECCV_2018/html/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.html)(2018ECCV)
 - [Gate-shift networks for video action recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Sudhakaran_Gate-Shift_Networks_for_Video_Action_Recognition_CVPR_2020_paper.html)(2020CVPR)
+- [Smallbignet: Integrating core and contextual views for video classification](https://arxiv.org/abs/2006.14582)(2020)
 - [Rotate to Attend: Convolutional triplet attention module](http://arxiv.org/abs/2010.03045)(2020)
+
 ## <h2 id="3">Causality in Computer Vision</h2>
 - [The Blessings of Unlabeled Background in Untrimmed Videos](http://arxiv.org/abs/2103.13183)(2021)
 - [The Blessings of Multiple Causes](https://arxiv.org/abs/1805.06826)(2019)
 - [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493)(2021)
-- [Smallbignet: Integrating core and contextual views for video classification](https://arxiv.org/abs/2006.14582)(2020)
 
 ## <h2 id="4">Video Representation Learning</h2>
 - [Video Representation Learning by Recognizing Temporal Transformations](http://arxiv.org/abs/2007.10730)(2020ECCV)
