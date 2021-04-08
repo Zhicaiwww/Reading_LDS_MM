@@ -12,7 +12,7 @@ This is a list of papers shared in LDS multi_media Group
 - [V4D:4D convolutional neural networks for video-level representation learning](http://arxiv.org/abs/2002.07442)(2020)
 - [Non-local Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)(2018CVPR)
 - [X3D: Expanding Architectures for Efficient Video Recognition](http://arxiv.org/abs/2004.04730)(2020)
-- [Selective kernel networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Selective_Kernel_Networks_CVPR_2019_paper.html)(CVPR2019)
+- [Selective kernel networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Selective_Kernel_Networks_CVPR_2019_paper.html)(2019CVPR)
 - [SpeedNet: Learning the Speediness in Videos](http://arxiv.org/abs/2004.06130)(2020)
 - [BAM: Bottleneck attention module](http://arxiv.org/abs/1807.06514)(2018)
 - [RubiksNet: Learnable 3D-Shift for Efficient Video Action Recognition](https://rubiksnet.stanford.edu/)(2020ECCV)
@@ -26,5 +26,5 @@ This is a list of papers shared in LDS multi_media Group
 
 ## <h2 id="4">Video Representation Learning</h2>
 - [Video Representation Learning by Recognizing Temporal Transformations](http://arxiv.org/abs/2007.10730)(2020ECCV)
-- [Evolving losses for unsupervised video representation learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Piergiovanni_Evolving_Losses_for_Unsupervised_Video_Representation_Learning_CVPR_2020_paper.html)(CVPR2020)
+- [Evolving losses for unsupervised video representation learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Piergiovanni_Evolving_Losses_for_Unsupervised_Video_Representation_Learning_CVPR_2020_paper.html)(2020CVPR)
 - [Memory-Augmented Dense Predictive Coding for Video Representation Learning](http://arxiv.org/abs/2008.01065)(2020)
