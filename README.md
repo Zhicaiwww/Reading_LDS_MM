@@ -10,6 +10,7 @@ This is a list of papers shared in LDS multi_media Group
 
 ## <h2 id="1">Survey Paper</h2>
 - [Generative Adversarial Networks for Image and Video Synthesis: Algorithms and Applications](http://arxiv.org/abs/2008.02793)(2020)
+- [Cross-modal interaction networks for query-based moment retrieval in videos](http://arxiv.org/abs/1607.06215)(2019SIGIR)
 
 ## <h2 id="2">Model and Architecture</h2>
 - [V4D:4D convolutional neural networks for video-level representation learning](http://arxiv.org/abs/2002.07442)(2020)
@@ -36,5 +37,5 @@ This is a list of papers shared in LDS multi_media Group
 
 ## <h2 id="5">Multi-Model</h2>
 - [Large-Scale Few-Shot Learning via Multi-modal Knowledge Discovery](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_42)(2020ECCV)
-- [Cross-modal interaction networks for query-based moment retrieval in videos](http://arxiv.org/abs/1607.06215)(2019SIGIR)
 - [Audio-Visual Instance Discrimination with Cross-Modal Agreement](http://arxiv.org/abs/2004.12943)(2020)
+- [Cross-modal interaction networks for query-based moment retrieval in videos](http://arxiv.org/abs/1906.02497)(2019SIGIR)
