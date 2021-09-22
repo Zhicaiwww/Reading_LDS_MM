@@ -29,6 +29,7 @@ This is a list of papers shared in LDS multi_media Group
 - [The Blessings of Unlabeled Background in Untrimmed Videos](http://arxiv.org/abs/2103.13183)(2021)
 - [The Blessings of Multiple Causes](https://arxiv.org/abs/1805.06826)(2019)
 - [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493)(2021)
+- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000)(2020NeurIPS)
 
 ## <h2 id="4">Video Representation Learning</h2>
 - [Video Representation Learning by Recognizing Temporal Transformations](http://arxiv.org/abs/2007.10730)(2020ECCV)
