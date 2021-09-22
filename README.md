@@ -5,7 +5,7 @@ This is a list of papers shared in LDS multi_media Group
 - [Model and Architecture](#2)
 - [Causality in Computer Vision](#3)
 - [Video Representation Learning](#4)
-- [Multi-Model](#5)
+- [Multi-Modal](#5)
 
 
 ## <h2 id="1">Survey Paper</h2>
