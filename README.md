@@ -35,6 +35,7 @@ This is a list of papers shared in LDS multi_media Group
 - [Video Representation Learning by Recognizing Temporal Transformations](http://arxiv.org/abs/2007.10730)(2020ECCV)
 - [Evolving losses for unsupervised video representation learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Piergiovanni_Evolving_Losses_for_Unsupervised_Video_Representation_Learning_CVPR_2020_paper.html)(2020CVPR)
 - [Memory-Augmented Dense Predictive Coding for Video Representation Learning](http://arxiv.org/abs/2008.01065)(2020)
+- [Self-Supervised Video Hashing via Bidirectional Transformers](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Self-Supervised_Video_Hashing_via_Bidirectional_Transformers_CVPR_2021_paper.html)(2021CVPR)
 
 ## <h2 id="5">Multi-Model</h2>
 - [Large-Scale Few-Shot Learning via Multi-modal Knowledge Discovery](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_42)(2020ECCV)
