@@ -24,6 +24,8 @@ This is a list of papers shared in LDS multi_media Group
 - [Gate-shift networks for video action recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Sudhakaran_Gate-Shift_Networks_for_Video_Action_Recognition_CVPR_2020_paper.html)(2020CVPR)
 - [Smallbignet: Integrating core and contextual views for video classification](https://arxiv.org/abs/2006.14582)(2020)
 - [Rotate to Attend: Convolutional triplet attention module](http://arxiv.org/abs/2010.03045)(2020)
+- [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://arxiv.org/abs/1911.03584)(2020ICLR)
+- [ConViT : Improving Vision Transformers with Soft Convolutional Inductive Biases](http://arxiv.org/abs/2103.10697)(2021ICML)
 
 ## <h2 id="3">Causality in Computer Vision</h2>
 - [The Blessings of Unlabeled Background in Untrimmed Videos](http://arxiv.org/abs/2103.13183)(2021)
