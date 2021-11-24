@@ -33,7 +33,7 @@ This is a list of papers shared in LDS multi_media Group
 - [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493)(2021)
 - [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000)(2020NeurIPS)
 - [Interventional Video Grounding With Dual Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.html)(2021CVPR)
-
+- [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.html)(2020CVPR) 
 ## <h2 id="4">Video Representation Learning</h2>
 - [Video Representation Learning by Recognizing Temporal Transformations](http://arxiv.org/abs/2007.10730)(2020ECCV)
 - [Evolving losses for unsupervised video representation learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Piergiovanni_Evolving_Losses_for_Unsupervised_Video_Representation_Learning_CVPR_2020_paper.html)(2020CVPR)
